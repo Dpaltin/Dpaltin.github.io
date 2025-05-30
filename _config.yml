@@ -12,7 +12,7 @@ title                    : "Dafna Paltin"
 title_separator          : "-"
 name                     : &name "Dafna Paltin"
 description              : &description "Psychology PhD Student at San Diego State University/UC San Diego"
-url                      : https://paltind.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://PaltinD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PaltinD.github.io"
 
