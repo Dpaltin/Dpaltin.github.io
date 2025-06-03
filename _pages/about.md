@@ -13,6 +13,6 @@ My dissertation examines resilience among people living with HIV who use methamp
 
 In addition to my research, I have clinical training in the treatment of substance use disorders, trauma, and relationship and sexual concerns. My experience includes individual therapy as well as couples and sex therapy, grounded in trauma-informed and culturally responsive care.
 
-I am also the co-director of the Harm Reduction International Health Collective, a 501(c)(3) nonprofit organization that provides harm reduction services, health education, and community care to San Diego’s unhoused population. This work fuels my passion for community-driven approaches to public health and reinforces the importance of bridging research, cslinical practice, and grassroots action.
+I am also the co-director of the [Harm Reduction International Health Collective](https://internationalhealthcollective.org/harm-reduction/), a 501(c)(3) nonprofit organization that provides harm reduction services, health education, and community care to San Diego’s unhoused population. This work fuels my passion for community-driven approaches to public health and reinforces the importance of bridging research, clinical practice, and grassroots action.
 
 Driven by a deep commitment to health equity, I strive to advance evidence-based, community-informed interventions. My work builds bridges across disciplines and sectors—collaborating with researchers, clinicians, and community partners—to improve the care, health, and wellbeing of historically and systematically excluded communities.

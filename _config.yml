@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dafna Paltin"
+title                    : "Dafna Paltin, M.S."
 title_separator          : "-"
 name                     : &name "Dafna Paltin"
-description              : &description "Psychology PhD Student at San Diego State University/UC San Diego"
+description              : &description "Doctoral Candidate at SDSU/UC San Diego Joint Doctoral Program in Clinical Psychology"
 url                      : https://Dpaltin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Dpaltin.github.io"
@@ -22,9 +22,9 @@ repository               : "Dpaltin.github.io"
 author:
   # Biographic information
   avatar           : "dafna_profile.png"
-  name             : "Dafna Paltin"
+  name             : "Dafna Paltin, M.S."
   pronouns         : # example: "she/her"  
-  bio              : "Psychology PhD Student @ SDSU/UCSD"
+  bio              : "Doctoral Candidate at SDSU/UC San Diego Joint Doctoral Program in Clinical Psychology"
   location         : "La Jolla, California"
   employer         : 
   uri              : # URL
@@ -48,14 +48,14 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : paltind.bsky.social #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : harmreductionihc # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username
+  twitter          : PaltinD # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -227,14 +227,14 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _projects
+  # _research
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _publications
+  # _clinical
   - scope:
       path: ""
       type: pages
@@ -250,7 +250,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _work
+  # _publications
   - scope:
       path: ""
       type: publications
