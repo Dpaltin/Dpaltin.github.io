@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a doctoral candidate in the [SDSU/UC San Diego Joint Doctoral Program in Clinical Psychology](https://psychology.sdsu.edu/doctoral/clinical/). My research focuses on addressing health disparities experienced by individuals from multiply marginalized communities. I center my work on racial/ethnic and sexual and gender minority populations at the intersection of HIV, substance use, and public health. A central focus of my research is understanding stigma—particularly intersectional stigma—and how it shapes health outcomes, engagement in care, and resilience. I explore topics including harm reduction, substance use treatment, PrEP adherence, HIV-related outcomes, discrimination, and structural oppression.
+Welcome! I am a doctoral candidate in the [SDSU/UC San Diego Joint Doctoral Program in Clinical Psychology](https://psychology.sdsu.edu/doctoral/clinical/dafna-paltin/). My research focuses on addressing health disparities experienced by individuals from multiply marginalized communities. I center my work on racial/ethnic and sexual and gender minority populations at the intersection of HIV, substance use, and public health. A central focus of my research is understanding stigma—particularly intersectional stigma—and how it shapes health outcomes, engagement in care, and resilience. I explore topics including harm reduction, substance use treatment, PrEP adherence, HIV-related outcomes, discrimination, and structural oppression.
 
 My dissertation examines resilience among people living with HIV who use methamphetamine, with the goal of informing more effective and affirming interventions for individuals navigating overlapping stigmas and health challenges.
 
